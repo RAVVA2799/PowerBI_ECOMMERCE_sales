@@ -1,0 +1,51 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,Payment Mode
+B-26420,1320,657,3,Clothing,Kurti,Credit Card
+B-26210,4059,-778,12,Clothing,Skirt,COD
+B-26336,6658,-299,15,Clothing,Saree,UPI
+B-26011,5817,-773,6,Clothing,Kurti,Credit Card
+B-25367,5260,-295,13,Furniture,Tables,UPI
+B-26555,1457,1251,11,Electronics,Tablets,Credit Card
+B-26531,1646,125,6,Clothing,Saree,EMI
+B-26961,4053,-905,13,Electronics,Phones,Credit Card
+B-25311,4374,1320,11,Furniture,Tables,UPI
+B-26169,163,1489,3,Clothing,Saree,Credit Card
+B-25048,2433,-293,14,Furniture,Bookcases,Credit Card
+B-26991,1101,1219,15,Clothing,Skirt,UPI
+B-26195,2532,1352,14,Clothing,Saree,UPI
+B-26816,6786,493,5,Furniture,Sofa,UPI
+B-25294,5181,1093,6,Electronics,Tablets,UPI
+B-25068,3290,766,12,Electronics,Phones,UPI
+B-25743,317,146,11,Electronics,Phones,UPI
+B-25996,3180,215,12,Clothing,Trousers,EMI
+B-26375,5160,1446,3,Clothing,Skirt,Credit Card
+B-26912,6814,-22,4,Clothing,Skirt,COD
+B-26931,6366,993,2,Clothing,Handkerchief,Credit Card
+B-25475,3615,-856,14,Clothing,Jeans,EMI
+B-25154,1189,-919,5,Clothing,Jeans,Credit Card
+B-25867,3604,-154,8,Electronics,Printers,UPI
+B-26907,2773,1324,13,Furniture,Bookcases,EMI
+B-25263,169,1482,6,Clothing,Skirt,EMI
+B-26010,3865,946,11,Clothing,Trousers,COD
+B-25180,5826,986,15,Electronics,Laptops,COD
+B-26421,2541,-490,6,Furniture,Chairs,UPI
+B-25921,4235,1447,15,Electronics,Printers,UPI
+B-25217,4423,-681,12,Furniture,Sofa,EMI
+B-26680,4049,-674,14,Clothing,Skirt,COD
+B-25993,1865,1276,11,Clothing,Kurti,UPI
+B-26905,4554,-488,15,Clothing,Kurti,COD
+B-26491,6900,350,5,Clothing,Trousers,COD
+B-26643,4527,-419,14,Furniture,Tables,UPI
+B-26491,6871,1198,6,Clothing,Trousers,EMI
+B-26537,1291,1385,13,Furniture,Sofa,Credit Card
+B-25693,1378,1035,10,Electronics,Phones,EMI
+B-25789,6281,375,7,Furniture,Tables,EMI
+B-25534,2913,257,5,Electronics,Printers,EMI
+B-25575,2010,-951,9,Clothing,Trousers,EMI
+B-26970,887,-232,7,Furniture,Bookcases,Credit Card
+B-25503,2667,20,9,Furniture,Wardrobes,COD
+B-25216,3080,1393,12,Clothing,Skirt,EMI
+B-25749,6878,-761,15,Electronics,Phones,Credit Card
+B-26430,4526,200,12,Furniture,Tables,COD
+B-25586,6599,-957,9,Electronics,Tablets,EMI
+B-25158,327,396,8,Furniture,Tables,COD
+B-26067,6850,1411,2,Clothing,Kurti,COD
